@@ -8,6 +8,6 @@ Language:
 
 ScreenShot:
 
-
+Media player:
 ![Demo](https://github.com/Sundaresan0502/App-Explorer/blob/main/Media_Player.png)
  
