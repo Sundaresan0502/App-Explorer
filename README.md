@@ -3,6 +3,8 @@ An App Explorer consists of PDF reader, web browser, media player, photo viewer,
 
 Requirements:
 * Microsoft Visual Studio
+
+
 Language:
 * VB.NET
 
