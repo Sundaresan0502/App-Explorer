@@ -6,7 +6,7 @@ Requirements:
 
 
 Language:
-* VB.NET
+* VB.NE
 
 ScreenShot:
 
